@@ -5,7 +5,7 @@
  * @author tknops
  */
 
-public class Problem7 {
+public class Problem07 {
 
     public static void main(String[] args) {
         final int STARTING_TUITION = 10000;
